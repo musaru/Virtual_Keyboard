@@ -1,0 +1,5 @@
+FastHand: Fast monocular hand pose estimation on embedded systems
+
+3D hand pose estimation from a single RGB image through semantic decomposition of VAE latent space
+
+A hybrid classification-regression approach for 3D hand pose estimation using graph convolutional networks
